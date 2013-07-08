@@ -21,6 +21,8 @@
 #ifndef BSON_H_
 #define BSON_H_
 
+#define MONGO_HAVE_UNISTD 1
+
 #include <time.h>
 #include <string.h>
 #include <stdio.h>

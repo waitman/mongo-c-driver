@@ -1,5 +1,12 @@
 # MongoDB C Driver
 
+***
+Note: this modified by Waitman Gobble 7/8/2013 <ns@waitman.net>. 
+SCONS build ripped out, Makefile created for FreeBSD port. 
+To run the tests, see https://github.com/waitman/mongo-c-driver-tests 
+***
+
+
 This is then 10gen-supported MongoDB C driver. There are two goals for this driver.
 The first is to provide a strict, default compilation option for ultimate portability,
 no dependencies, and generic embeddability.
